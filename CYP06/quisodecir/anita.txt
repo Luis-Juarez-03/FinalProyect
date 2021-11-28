@@ -1,0 +1,1 @@
+(anita) (lava la) tina. Esta, es una frase en la que Ana, palabra que por si misma constituye un palindromo (ana,  leido al reves tambien dice ana), se transforma en un frase que es un palindromo. Anis no es palindromo.
